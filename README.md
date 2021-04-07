@@ -24,7 +24,7 @@ informations by using APIs of fitness trackers like FitBit.
 Encourage users to do frequent health checkups by rewarding coins per health checkup.
 Partnering with hospitals and medical Centres to collect these information.
 
-Allow an end-user to pay with HealthCoins thru their smart devices.
+Allow an end-user to pay with HealthCoins thru their smart devices.  :bank:
 for example,When individual users buy health/fitness equipment from partnered retail shops,
 they can  collect HealthCoins and also redeem their previous health coins.
 
