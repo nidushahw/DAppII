@@ -10,7 +10,7 @@ and engaginghealthier activities (exercises, health checkups, participating heal
 Developing blockchain based Health Coins as a reward. These health coins will be implemented  etherium based ERC20  token.
 Coins will be earned by engaging different activities for example
 
-Food/product logging, logging Exercises, participating health awareness programs, logging health checkups.
+Food/product logging, logging Exercises, participating health awareness programs, logging health checkups. :runner: :muscle: :pill: :stew:
 
 We can tie up with food/product vendors where the user can just upload a picture of the invoice,
 or scan QR codes printed on scratch stickers and system can parse the items they have ordered.
