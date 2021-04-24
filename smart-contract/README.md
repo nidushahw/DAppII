@@ -4,8 +4,6 @@ Merkle Air Drop for community Reward Token
 
 ### Introduction
 
-A Blockchain based platform (similar to StackExchange) that engages the developer community by issuing them with crypto tokens based on Ethereum network. The platform is designed in such a way that it incentivizes the developers to answer questions and get the reward in form of tokens. This platform can also be extended to post tasks instead of questions and anyone can work on it to claim the reward, ultimately making way for a Decentralized Autonomous Organization.
-
 When a user from pre defined member list wants to sign up for the developer community, they can use the free registration method. The owner has the option to perform an air drop to distribute the token between wallets at random, in order to improve his visibility. A possible solution is using a Merkle Tree.
 
 There will be a pre defined allow-list of address that will be able to register free and join the developer community.
