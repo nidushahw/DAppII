@@ -1,0 +1,20 @@
+{
+    "name": "health-coin-smart-contract",
+    "version": "1.0.0",
+    "description": "Health Coin Smart Contract",
+    "author": "Nidusha Lakmali Hewawilladdara",
+    "license": "MIT",
+    "scripts": {
+        "test": "truffle run coverage"
+    },
+    "devDependencies": {
+        "solidity-coverage": "^0.7.16",
+        "truffle": "^5.1.66",
+        "truffle-assertions": "^0.9.2"
+    },
+    "dependencies": {
+        "@openzeppelin/contracts": "^3.4.0",
+        "bn": "^1.0.5",
+        "ethers": "^5.1.0"
+    }
+}
